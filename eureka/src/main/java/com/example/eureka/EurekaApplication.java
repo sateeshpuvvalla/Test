@@ -13,5 +13,6 @@ public class EurekaApplication {
 		System.out.println("Hello Sateesh");
 		System.out.println("Hello eureka");
 		System.out.println("Hello eureka1");
+		System.out.println("Hello eureka2");
 	}
 }
